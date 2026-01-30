@@ -48,6 +48,6 @@ If an author has multiple skills in the same area, please don't add them one by 
 
 ## Help
 
-- Check existing [issues](https://github.com/codeaashu/awesome-moltbot-skills/issues) and PRs first
+- Check existing [issues](https://github.com/codeaashu/awesome-openclaw-skills/issues) and PRs first
 - Open a new issue for questions
 - Visit the skill's SKILL.md for skill-specific help
