@@ -15,7 +15,7 @@
 </div>
 
 ![Skills Count](https://img.shields.io/badge/skills-700+-blue?style=flat-square)
-![Last Update](https://img.shields.io/github/last-commit/codeaashu/awesome-clawdbot-skills?label=Last%20update&style=flat-square)
+![Last Update](https://img.shields.io/github/last-commit/codeaashu/awesome-openclaw-Skills?label=Last%20update&style=flat-square)
 </div>
 
 # Awesome OpenClaw(Moltbot(Clawdbot)) Skills
