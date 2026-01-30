@@ -14,14 +14,8 @@
     <br />
 </div>
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-<a href="https://github.com/codeaashu/codeaashu">
-  <img alt="codeaashu" src="https://cdn.codeaashu.dev/website/logo/logo-2-svg.svg" height="20" />
-</a> 
-
 ![Skills Count](https://img.shields.io/badge/skills-700+-blue?style=flat-square)
 ![Last Update](https://img.shields.io/github/last-commit/codeaashu/awesome-clawdbot-skills?label=Last%20update&style=flat-square)
-[![GitHub forks](https://img.shields.io/github/forks/codeaashu/awesome-clawdbot-skills?style=social)](https://github.com/codeaashu/awesome-claude-skills/network/members)
 </div>
 
 # Awesome OpenClaw(Moltbot(Clawdbot)) Skills
