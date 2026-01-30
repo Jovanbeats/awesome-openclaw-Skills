@@ -81,12 +81,6 @@ Priority: Workspace > Local > Bundled
 
 <br/>
 
-<a href="https://github.com/codeaashu/codeaashu">
-<img width="1390" height="296" alt="social" src="https://github.com/user-attachments/assets/4c40affa-8e20-443a-9ec5-1abb6679b170" />
-</a>
-
-<br/>
-
 <details open>
 <summary><h3 style="display:inline">Web & Frontend Development</h3></summary>
 
