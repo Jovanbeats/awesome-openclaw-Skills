@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/codeaashu/codeaashu">
-<img width="1500" height="500" alt="social" src="https://github.com/user-attachments/assets/a6f310af-8fed-4766-9649-b190575b399d" />
+<img width="1500" height="500" alt="Your paragraph text" src="https://github.com/user-attachments/assets/878de103-4d82-4fff-993b-481c9ed10bc8" />
 </a>
 
 <br/>
